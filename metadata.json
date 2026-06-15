@@ -1,0 +1,6 @@
+{
+  "name": "Brew Haven Cafe",
+  "description": "A premium, modern, and highly interactive website for the luxury Brew Haven Cafe, featuring an AI assist, table reservation, and full-featured coffee bar interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
